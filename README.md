@@ -17,10 +17,10 @@ Start in JavaScript
 
 * CSS 
 
-*JavaScript
+* JavaScript 
 
 
 ## Как открыть/запустить
 
 <p>Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.</p>
-Или открыть ссылку в браузере <a>https://sllavad.github.io/Task_5.1/</a>
+Или открыть ссылку в браузере <a>https://sllavad.github.io/Task_6.8/</a>
