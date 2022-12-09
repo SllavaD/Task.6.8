@@ -15,9 +15,9 @@ Start in JavaScript
 
 * HTML
 
-* CSS 
-
 * JavaScript 
+
+* CSS 
 
 
 ## Как открыть/запустить
