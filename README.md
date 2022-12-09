@@ -1,4 +1,4 @@
-# Task.6.8
+# Task_6.8
 Start in JavaScript
 
 <p>SkillFactory: PHPDEV</p>
