@@ -1,0 +1,23 @@
+body {
+        background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+        
+    }
+
+ol { /*Меняем стиль нумерации списка*/
+        list-style-type: none; /* Убираем исходные маркеры */
+        counter-reset: my-counter; /* Задаём имя счетчика */
+    }
+
+li {
+        margin-bottom: 0.5em; /* Расстояние между пунктами списка */
+    }
+
+li::before {
+        content: counter(my-counter); /* Выводим число */
+        counter-increment: my-counter; /* Увеличиваем значение счётчика */
+        background: #809778; /* Цвет фона */
+        color: #fff; /* Белый цвет текста */
+        padding: 2px 6px; /* Поля вокруг текста */
+        margin-right: 0.5em; /* Расстояние от цифры до текста */
+    }
+   
